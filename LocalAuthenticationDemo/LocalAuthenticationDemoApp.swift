@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct LocalAuthenticationDemoApp: App {
+    private let authenticationManager = AuthenticationManager()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(authenticationManager)
         }
     }
 }
