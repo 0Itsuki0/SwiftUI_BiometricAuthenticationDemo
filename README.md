@@ -12,6 +12,6 @@ Specifically, this demo includes
 
 To test biometric authentication using simulator, please refer to Apple's documentation on [Test Face ID or Touch ID authentication](https://developer.apple.com/documentation/xcode/testing-complex-hardware-device-scenarios-in-simulator#Test-Face-ID-or-Touch-ID-authentication)/
 
-For more details, please refer to my blog [SwiftUI: Biometric Authentication with Local Authentication Framework]()
+For more details, please refer to my blog [SwiftUI: Biometric Authentication with Local Authentication Framework](https://medium.com/@itsuki.enjoy/swiftui-biometric-authentication-with-local-authentication-framework-a11270a1088a)
 
 ![](./demo.gif)
